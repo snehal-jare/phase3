@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Snehal Jare\Downloads\MainProject_SportyShoes\MainProject_SportyShoes\SportyShoes"/>
+			<item value="C:\Users\Snehal Jare\Downloads\Practice_Assignments_With_Docs_Outputs (1)\Practice_Assignments\Phase3_Practice_Assignments-main\UserManager"/>
+			<item value="C:\Users\Snehal Jare\Downloads\Practice_Assignments_With_Docs_Outputs (1)\Practice_Assignments\Phase3_Practice_Assignments-main\SpringSecurity"/>
+			<item value="C:\Users\Snehal Jare\Downloads\Practice_Assignments_With_Docs_Outputs (1)\Practice_Assignments\Phase3_Practice_Assignments-main\Feedback"/>
+			<item value="C:\Users\Snehal Jare\Downloads\Practice_Assignments_With_Docs_Outputs (1)\Practice_Assignments\Phase3_Practice_Assignments-main\Authentication"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
